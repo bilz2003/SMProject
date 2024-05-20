@@ -17,6 +17,6 @@ Go ahead and paste the local host provided by the frontend terminal window into 
 
 If you wish to creat an account within the programme there are password rules:
 Minimum of 8 characters
-Must contain a special character
+<br>Must contain a special character
 Must contain at least 1 number
 Must contain a capital letter
