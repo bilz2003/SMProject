@@ -18,7 +18,7 @@ u
 1. Open your terminal and navigate to the frontend directory:
 
    ```sh
-    cd Full\ Sack\ Vue
+    cd Full\ Stack\ Vue
     ```
 2. Install the necessary dependencies (only required the first time):
    ```sh
